@@ -40,7 +40,7 @@
     transform: translate3d(0, -4px, 0);
   }
 }
-
+/*Animations Starts*/
 @keyframes bounce {
   from,
   20%,
@@ -3623,3 +3623,4 @@
     animation-iteration-count: 1 !important;
   }
 }
+/*Animation Ends*/
